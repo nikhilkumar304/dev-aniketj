@@ -23,7 +23,7 @@
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/dev-aniketj/github-stats-transparent/master/generated/languages.svg#gh-light-mode-only" />
-  <img src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" width="250" alt="coding"/>
+ <!-- <img src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" width="250" alt="coding"/> -->
   <img src="https://raw.githubusercontent.com/dev-aniketj/github-stats-transparent/master/generated/overview.svg#gh-light-mode-only" />
 </p>
 
