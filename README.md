@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Kotlin, Python**
 
-- 👨‍💻 All of my projects are available at [Google Play Store](https://play.google.com/store/search?q=pub%3AAniket%20Jain&c=apps)
+- 👨‍💻 All of my projects are available at **[Google Play Store](https://play.google.com/store/search?q=pub%3AAniket%20Jain&c=apps)**
 
 - 💬 Ask me about **Java, C++, Scala**
 
