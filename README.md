@@ -29,7 +29,7 @@
 </p>
 
 
-![Aniket Jain Graph](https://activity-graph.herokuapp.com/graph?username=dev-aniketj&theme=nord&area=true)
+[![Aniket Jain Graph](https://activity-graph.herokuapp.com/graph?username=dev-aniketj&theme=nord&area=true)](https://activity-graph.herokuapp.com/graph?username=dev-aniketj&theme=nord&area=true)
 
 
 
