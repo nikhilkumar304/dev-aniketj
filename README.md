@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at **[Google Play Store](https://play.google.com/store/search?q=pub%3AAniket%20Jain&c=apps)**
 
-- 💬 Ask me about **Java, C++, Scala**
+- 💬 Ask me about **Java, Kotlin, C, C++, Scala**
 
 - 📫 How to reach me **aniketjain8441@gmail.com**
 </p>
