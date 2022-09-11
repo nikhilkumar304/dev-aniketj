@@ -3,7 +3,7 @@
    
 <p align="left">
 
-- 🌱 I’m currently learning **Kotlin, Python**
+- 🌱 I’m currently learning **Flutter, Python**
 
 - 👨‍💻 All of my projects are available at **[Google Play Store](https://play.google.com/store/search?q=pub%3AAniket%20Jain&c=apps)**
 
